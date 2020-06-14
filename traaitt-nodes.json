@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "US-WEST traaittnetwork MAINNET",
+      "url": "us-west.traaitt.com",
+      "port": 443,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "EUROPE-WEST traaittnetwork MAINNET",
+      "url": "europe-west.traaitt.com",
+      "port": 14478,
+      "ssl": false,
+      "cache": true
+    },
+    {
+      "name": "ASIA SOUTHEAST traaittnetwork MAINNET",
+      "url": "asia-southeast.traaitt.com",
+      "port": 14478,
+      "ssl": true,
+      "cache": true
+    }
+  ]
+}
