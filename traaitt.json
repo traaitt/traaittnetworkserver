@@ -1,25 +1,61 @@
+
 {
   "nodes": [
     {
-      "name": "US-WEST traaittnetwork MAINNET",
-      "url": "us-west.traaitt.com",
-      "port": 443,
+      "name": "ASIA SOUTHEAST XTE",
+      "url": "asia-southeast.trrxitte.com",
+      "port": 14486,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "EUROPE-WEST traaittnetwork MAINNET",
-      "url": "europe-west.traaitt.com",
-      "port": 14478,
+      "name": "ASIA EAST XTE",
+      "url": "asia-east.trrxitte.com",
+      "port": 14486,
       "ssl": false,
-      "cache": true
+      "cache": false
     },
     {
-      "name": "ASIA SOUTHEAST traaittnetwork MAINNET",
-      "url": "asia-southeast.traaitt.com",
-      "port": 14478,
-      "ssl": true,
-      "cache": true
-    }
+      "name": "ASIA NORTHEAST XTE",
+      "url": "asia-northeast.trrxitte.com",
+      "port": 14486,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "US EAST XTE",
+      "url": "us-east.trrxitte.com",
+      "port": 14486,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "US WEST XTE",
+      "url": "us-west.trrxitte.com",
+      "port": 14486,
+      "ssl": false,
+      "cache": false
+    },
+        {
+      "name": "EUROPE WEST I XTE",
+      "url": "europe-west.traaitt.com",
+      "port": 14486,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "EUROPE WEST II XTE",
+      "url": "europe.trrxitte.com",
+      "port": 14486,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "SOUTHAMERICA EAST XTE",
+      "url": "southamerica-east.trrxitte.com",
+      "port": 14486,
+      "ssl": false,
+      "cache": false
+    },
   ]
 }
